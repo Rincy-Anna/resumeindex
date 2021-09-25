@@ -1,0 +1,32 @@
+.body{
+    width: 61%;
+
+}
+
+.header{
+    width: 99%;
+    height: 100%;
+    background-color: rgb(27, 27, 165);
+    text-align: center;
+
+}
+h4{
+    color: white;    
+}
+h6{
+    color: white; 
+    
+}
+h5{
+    background-color:rgb(206, 204, 204);
+    width: 100%;
+}
+
+.set-1{
+    background-color: wheat;
+    width: 523px;
+}
+.set-2{
+    width: 36%;
+    background-color: rgb(235, 235, 235);
+}
